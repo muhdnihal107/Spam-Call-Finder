@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "efbc",
+      "name": "baby watch",
+      "email": "muhdnihal132@gmail.com",
+      "password": "1234",
+      "cpassword": "1234"
+    },
+    {
+      "id": "6a1a",
+      "name": "Nihal",
+      "email": "123@123",
+      "password": "9874",
+      "cpassword": "9874"
+    },
+    {
+      "id": "16a3",
+      "name": "zain",
+      "email": "malik@123",
+      "password": "1234",
+      "cpassword": "1234"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "dc66",
+      "name": "superman",
+      "email": "bat@123",
+      "phone": "986546321",
+      "isSpam": false
+    },
+    {
+      "id": "0f32",
+      "name": "captain",
+      "email": "iron@123",
+      "phone": "968557412",
+      "isSpam": false
+    },
+    {
+      "id": "9c8c",
+      "name": "jacky",
+      "email": "jack234@6464",
+      "phone": "48786464",
+      "isSpam": false
+    },
+    {
+      "id": "9144",
+      "name": "bruce",
+      "email": "hkasu@646",
+      "phone": "968577412",
+      "isSpam": false
+    },
+    {
+      "id": "dcf4",
+      "name": "dragon",
+      "email": "dra@123",
+      "phone": "968574358",
+      "isSpam": false
+    }
+  ]
+}
